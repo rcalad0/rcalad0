@@ -1,8 +1,6 @@
 # Rui Calado
 
-Welcome to my page; on my Github, you can find:
-- Write-ups from some pentesting free labs and training
-
+Welcome to my repository!
 
 #### 📧 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcalad0/)
@@ -12,3 +10,5 @@ Welcome to my page; on my Github, you can find:
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cBeri)
 
 ---
+### Here you can find my write-ups:
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://noto.li/cmwAoc)
