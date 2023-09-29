@@ -10,4 +10,4 @@ Welcome to my repository!
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/coisasdorc)
 
 #### 📜 Write-ups:
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://noto.li/cmwAoc)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://noto.li/Gjtuhj)
